@@ -1,5 +1,5 @@
 # P2-WebAgency
-Projet d'intégration d'une maquette (formation DWJ OpenClassrooms)
+Projet d'intégration d'une maquette (formation DWJ OpenClassrooms). 
 lien vers le projet : http://guuzii.com/P1-WebAgency/html/index.html
 
 Sujet :
